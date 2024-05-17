@@ -1,0 +1,3 @@
+INFO - 2022-02-10 12:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-10 12:19:44 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-02-10 21:15:36 --> Controller "App\Controllers\base\Beranda" loaded.
