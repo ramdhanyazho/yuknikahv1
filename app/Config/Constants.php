@@ -80,17 +80,17 @@ define('SITE_NAME', 'Yuk Nikah'); ///NAMA WEBSITE
 
 // =========== production mode ============
 // //LINK DOMAIN WITH URL
-define('SITE_UTAMA', 'https://yuknikah.site/'); 
-define('SITE_UNDANGAN', 'https://undangan.yuknikah.site/');
-define('SITE_ADMIN', 'https://admin.yuknikah.site/');
-define('SITE_BUKUTAMU', 'https://tamu.yuknikah.site/');
+define('SITE_UTAMA', 'https://jadiundangan.my.id/'); 
+define('SITE_UNDANGAN', 'https://undangan.jadiundangan.my.id/');
+define('SITE_ADMIN', 'https://admin.jadiundangan.my.id/');
+define('SITE_BUKUTAMU', 'https://tamu.jadiundangan.my.id/');
 
 //DOMAIN ONLY
 define('DOMAIN_UTAMA', 'yuknikah.site');
-define('DOMAIN_UTAMA_WWW', 'www.yuknikah.site'); //PAKE WWW
-define('DOMAIN_UNDANGAN', 'undangan.yuknikah.site');
-define('DOMAIN_ADMIN', 'admin.yuknikah.site');
-define('DOMAIN_BUKUTAMU', 'tamu.yuknikah.site');
+define('DOMAIN_UTAMA_WWW', 'www.jadiundangan.my.id'); //PAKE WWW
+define('DOMAIN_UNDANGAN', 'undangan.jadiundangan.my.id');
+define('DOMAIN_ADMIN', 'admin.jadiundangan.my.id');
+define('DOMAIN_BUKUTAMU', 'tamu.jadiundangan.my.id');
 
 
 //base url dinamis
